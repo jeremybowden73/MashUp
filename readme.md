@@ -1,6 +1,6 @@
-CS50x Problem Set 8
-
 "Mashup"
+
+For a demo video on Youtube visit https://www.youtube.com/embed/1vFmrmOY7qM
 
 My code is all in the Python file application.py and the Javascript file scripts.js, but a good understanding
 of how the whole website operates (Google Maps APIs, SQL, jQuery, Flask, JSON) is needed in order to complete the functions in
